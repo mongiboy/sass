@@ -1,0 +1,8 @@
+$red: #ff0000;
+@mixin br($px) {
+    border-radius: $px;
+}
+
+@mixin border($color) {
+    border: $color 2px solid;
+}

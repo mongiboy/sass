@@ -1,0 +1,7 @@
+h1 {
+  text-align: center;
+  color: #ff0000;
+  font-weight: 700;
+  border: green 2px solid;
+  border-radius: 8px;
+}
