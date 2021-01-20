@@ -6,3 +6,8 @@ h1{
     @include br(8px);
 }
 
+p{
+    text-align: center;
+    background: $red;
+    padding: 15px;
+}

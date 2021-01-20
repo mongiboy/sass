@@ -9,6 +9,8 @@
 </head>
 <body>
     <h1>Header</h1>
+    <p>It`s Paragraph</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus aliquid asperiores magni ullam sed adipisci rem maxime quo porro inventore!</p>
 </body>
 </html>
 
